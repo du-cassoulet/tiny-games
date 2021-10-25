@@ -1,0 +1,130 @@
+[
+  {
+    "name":"Pro player",
+    "type":0,
+    "value":{"emoji":"🥇"},
+    "id":"01",
+    "rarity":0,
+    "price":1000
+  },
+  {
+    "name":"Big brain",
+    "type":0,
+    "value":{"emoji":"🧠"},
+    "id":"02",
+    "rarity":0,
+    "price":5000
+  },
+  {
+    "name":"Burger",
+    "type":0,
+    "value":{"emoji":"🍔"},
+    "id":"03",
+    "rarity":0,
+    "price":30000
+  },
+  {
+    "name":"Bomber",
+    "type":0,
+    "value":{"emoji":"💣"},
+    "id":"04",
+    "rarity":0,
+    "price":50000
+  },
+  {
+    "name":"Demon",
+    "type":0,
+    "value":{"emoji":"👿"},
+    "id":"05",
+    "rarity":0,
+    "price":66600
+  },
+  {
+    "name":"Money emperor",
+    "type":0,
+    "value":{"emoji":"💸"},
+    "id":"06",
+    "rarity":1,
+    "price":100000
+  },
+  {
+    "name":"Why",
+    "type":0,
+    "value":{"emoji":"🤡"},
+    "id":"07",
+    "rarity":1,
+    "price":150000
+  },
+  {
+    "name":"Lucky boy",
+    "type":0,
+    "value":{"emoji":"🎱"},
+    "id":"08",
+    "rarity":1,
+    "price":150000
+  },
+  {
+    "name":"Fire",
+    "type":0,
+    "value":{"emoji":"🔥"},
+    "id":"09",
+    "rarity":2,
+    "price":170000
+  },
+  {
+    "name":"Stonk",
+    "type":0,
+    "value":{"emoji":"📈"},
+    "id":"09",
+    "rarity":2,
+    "price":250000
+  },
+  {
+    "name":"Trash player",
+    "type":0,
+    "value":{"emoji":"🗑️"},
+    "id":"10",
+    "rarity":2,
+    "price":370000
+  },
+  {
+    "name":"Galactic player",
+    "type":0,
+    "value":{"emoji":"🌌"},
+    "id":"11",
+    "rarity":3,
+    "price":500000
+  },
+  {
+    "name":"How did you",
+    "type":0,
+    "value":{"emoji":"💫"},
+    "id":"12",
+    "rarity":3,
+    "price":999999
+  },
+  {
+    "name":"Red theme",
+    "type":1,
+    "value":{"emoji":"🟥"},
+    "id":"19",
+    "rarity":0,
+    "price":7500
+  },
+  {
+    "name":"Blue theme",
+    "type":1,
+    "value":{"emoji":"🟦"},
+    "id":"20",
+    "rarity":0,
+    "price":7500
+  },
+  {
+    "name":"Purple theme",
+    "type":1,
+    "value":{"emoji":"🟪"},
+    "id":"21",
+    "rarity":0,
+    "price":7500
+  }
+]

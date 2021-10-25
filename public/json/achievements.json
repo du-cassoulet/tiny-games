@@ -1,0 +1,15 @@
+[
+  {"name":"Learn the game","description":"Win 1 game","parameters":{"victories":1},"reward":500},
+  {"name":"You're the boss","description":"Win 50 games","parameters":{"victories":50},"reward":3750},
+  {"name":"You are dazzling!","description":"Win 100 games","parameters":{"victories":100},"reward":8750},
+  {"name":"There are no small savings","description":"Get 10,000 tokens","parameters":{"tokens":10000},"reward":2450},
+  {"name":"Milionary","description":"Get 1,000,000 tokens","parameters":{"tokens":1000000},"reward":5600},
+  {"name":"The defeat king","description":"Lose 50 games","parameters":{"defeats":50},"reward":2750},
+  {"name":"The defeat god","description":"Lose 100 games","parameters":{"defeats":100},"reward":7500},
+  {"name":"Specialist","description":"Having 50 victories in a game","parameters":{"victories":50,"game":"[highest]"},"reward":9350},
+  {"name":"Deminer","description":"Having 20 victories in the minesweeper","parameters":{"victories":20,"game":"minesweeper"},"reward":3200},
+  {"name":"Color splasher","description":"Having 20 victories in the flood","parameters":{"victories":20,"game":"flood"},"reward":2450},
+  {"name":"Stick eater","description":"Having 20 victories in the sticks game","parameters":{"victories":20,"game":"sticks"},"reward":2100},
+  {"name":"Connecter","description":"Having 20 victories in the connect4","parameters":{"victories":20,"game":"connect4"},"reward":3450},
+  {"name":"Smort","description":"Having 35 victories in the quiz","parameters":{"victories":35,"game":"connect4"},"reward":5675}
+]

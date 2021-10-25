@@ -1,0 +1,51 @@
+[
+  {
+    "image":"https://i.imgur.com/JgAKeoH.jpg",
+    "grayscale":"https://i.imgur.com/XNpwtjf.png",
+    "name":"blue sky",
+    "price":0,
+    "rarity":0
+  },
+  {
+    "image":"https://i.imgur.com/FFLGEQo.png",
+    "grayscale":"https://i.imgur.com/fAFu9Ke.png",
+    "name":"purple factory",
+    "price":1000,
+    "rarity":1
+  },
+  {
+    "image":"https://i.imgur.com/Q8p8pFf.png",
+    "grayscale":"https://i.imgur.com/ZGC1hWx.png",
+    "name":"neon future",
+    "price":1000,
+    "rarity":1
+  },
+  {
+    "image":"https://i.imgur.com/jSc6WpQ.png",
+    "grayscale":"https://i.imgur.com/gfwdMet.png",
+    "name":"red night",
+    "price":5000,
+    "rarity":2
+  },
+  {
+    "image":"https://i.imgur.com/6jVv5SZ.png",
+    "grayscale":"https://i.imgur.com/Ms3gMuU.png",
+    "name":"pink skybase",
+    "price":5000,
+    "rarity":2
+  },
+  {
+    "image":"https://i.imgur.com/XPGap9C.png",
+    "grayscale":"https://i.imgur.com/KnJNCmG.png",
+    "name":"tower of pipes",
+    "price":7500,
+    "rarity":2
+  },
+  {
+    "image":"https://i.imgur.com/HsNOV3E.jpg",
+    "grayscale":"https://i.imgur.com/os6wy9K.png",
+    "name":"green aurora",
+    "price":10000,
+    "rarity":3
+  }
+]
